@@ -1,5 +1,4 @@
 ---
-layout: single
 title: docker + alpine linux + php + sql server
 ---
 
