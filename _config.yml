@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Brett McBride"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "A 15-ish year PHP veteran who also loves docker."
   location         : "Geelong, Australia"
   email            :
   uri              :
